@@ -9,7 +9,7 @@ I completed my first Active Directory Project and it was a really cool experienc
 <h2>Languages and Utilities Used</h2>
 
 - <b>Virtual Box</b>
-- <b>PowerShell</b> 
+- <b>Windows PowerShell</b> 
 
 <h2>Environments Used </h2>
 
